@@ -42,7 +42,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/job-application-tracker.git
+   git clone https://github.com/NuzhatUlAin/Job-Tracker.git
 2. Navigate and run the client:
    ```bash
    cd jobtracker-client
