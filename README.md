@@ -1,6 +1,8 @@
 # Job Application Tracker 
 
 **Your personal job search companion** — track applications, interview status, and notes in one clean, interactive dashboard.
+![Alt text](ImageDashboard.png)
+
 
 ## About This Project
 
